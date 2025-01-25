@@ -52,16 +52,6 @@ This project focuses on predicting customer churn in the banking sector. Using m
 - **Insights**: Identified key drivers such as balance, account activity, and tenure.
 - **Recommendations**: Strategies for improving customer satisfaction and retention.
 
----
-
-## 📁 Repository Structure
-```
-|-- data/                  # Contains the dataset
-|-- scripts/               # Python scripts for analysis and modeling
-|-- visualizations/        # Plots and insights
-|-- README.md              # Project overview and usage guide
-|-- Customer-Churn.ipynb   # Main notebook for prediction and analysis
-```
 
 ---
 
